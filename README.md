@@ -1,7 +1,7 @@
 <h3 align="center">Hi! My name is Adriel Arias 👋</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-<img src="https://komarev.com/ghpvc/?username=manoyes&label=Profile%20views&color=0e75b6&style=flat" alt="manoyes" />
+<img src="https://komarev.com/ghpvc/?username=adriel3005&label=Profile%20views&color=0e75b6&style=flat" alt="adriel3005" />
 
 - 🔭 I’m currently working on:
   - [subtend](https://github.com/manoyes/subtend): Fast Desktop subtitle editor and burn-in tool with AI features (pre-alpha)
