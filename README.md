@@ -1,7 +1,12 @@
-### Hi there 👋
+<h3 align="center">Hi! My name is Adriel Arias 👋</h3>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+<img src="https://komarev.com/ghpvc/?username=manoyes&label=Profile%20views&color=0e75b6&style=flat" alt="manoyes" />
+
+- 🔭 I’m currently working on:
+  - [subtend](https://github.com/manoyes/subtend): Fast Desktop subtitle editor and burn-in tool with AI features (pre-alpha)
 
 <!--
-**adriel3005/adriel3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
